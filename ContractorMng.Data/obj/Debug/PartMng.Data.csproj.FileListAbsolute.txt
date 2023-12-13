@@ -1,0 +1,12 @@
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\obj\Debug\PartMng.Data.csproj.AssemblyReference.cache
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\obj\Debug\PartMng.Data.csproj.CoreCompileInputs.cache
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\bin\Debug\PartMng.Data.dll.config
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\bin\Debug\PartMng.Data.dll
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\bin\Debug\PartMng.Data.pdb
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\bin\Debug\EntityFramework.dll
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\bin\Debug\EntityFramework.xml
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\obj\Debug\PartMng.Data.csproj.CopyComplete
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\obj\Debug\PartMng.Data.dll
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\obj\Debug\PartMng.Data.pdb

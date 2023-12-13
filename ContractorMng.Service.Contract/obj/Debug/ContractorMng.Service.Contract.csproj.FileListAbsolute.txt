@@ -1,0 +1,7 @@
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Service.Contract\bin\Debug\ContractorMng.Service.Contract.dll
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Service.Contract\bin\Debug\ContractorMng.Service.Contract.pdb
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Service.Contract\obj\Debug\ContractorMng.Service.Contract.csproj.AssemblyReference.cache
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Service.Contract\obj\Debug\ContractorMng.Service.Contract.csproj.CoreCompileInputs.cache
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Service.Contract\obj\Debug\ContractorMng.Service.Contract.dll
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Service.Contract\obj\Debug\ContractorMng.Service.Contract.pdb
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Service.Contract\bin\Debug\ContractorMng.Service.Contract.dll.config

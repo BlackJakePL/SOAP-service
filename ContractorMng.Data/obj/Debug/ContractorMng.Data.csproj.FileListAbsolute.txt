@@ -1,0 +1,16 @@
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\bin\Debug\ContractorMng.Data.dll.config
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\bin\Debug\ContractorMng.Data.dll
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\bin\Debug\ContractorMng.Data.pdb
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\bin\Debug\EntityFramework.dll
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\bin\Debug\EntityFramework.xml
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\obj\Debug\ContractorMng.Data.csproj.AssemblyReference.cache
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\obj\Debug\ContractorMng.Data.Migrations.Initial.resources
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\obj\Debug\ContractorMng.Data.Migrations.change.resources
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\obj\Debug\ContractorMng.Data.Migrations.empty.resources
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\obj\Debug\ContractorMng.Data.csproj.GenerateResource.cache
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\obj\Debug\ContractorMng.Data.csproj.CoreCompileInputs.cache
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\obj\Debug\ContractorMng.Data.csproj.CopyComplete
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\obj\Debug\ContractorMng.Data.dll
+F:\FTP\szkolenie techniczne 3\ContractorManagement\ContractorManagement\ContractorMng.Data\obj\Debug\ContractorMng.Data.pdb
